@@ -1,1 +1,16 @@
-# OngleleafBuhungMinHa
+<pre>
+@font-face {
+    font-family: "OngleleafBuhungMinHa";
+    font-weight: 300;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/OngleleafBuhungMinHa/OngleleafBuhungMinHa.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/OngleleafBuhungMinHa/OngleleafBuhungMinHa.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/OngleleafBuhungMinHa/OngleleafBuhungMinHa.ttf") format("truetype");
+    font-display: swap;
+}
+
+.OngleleafBuhungMinHa {
+    font-family: "OngleleafBuhungMinHa";
+}
+  
+</pre>
